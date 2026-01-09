@@ -4,7 +4,7 @@
 - 🌱 I’m currently learning: Typescript.
 - 👯 I’m looking to collaborate on: Learning and contributing to Go project.
 - 💬 Ask me about: Open source, cool python projects.
-- 📫 How to reach me: shatakshimishra01@gmail.com
+- 📫 Reach me at: shatakshimishra01@gmail.com
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=shatakshiiii&show_icons=true&locale=en" alt="shatakshiiii" /></p>
 
